@@ -512,8 +512,13 @@ If you find this project interesting, star the repository and share feedback to 
 
 ## 🔗 Contact Me
 
-You can contact me via LinkedIn
-<p https://www.linkedin.com/in/adarsh-chaudhary-071053331/p>
+You can contact me:
+
+<https://www.linkedin.com/in/adarsh-chaudhary-071053331/>
+
+
+<https://youtube.com/@adarsh_dx?si=a1uCA1LcQjs2ZlF3/>
+
 
 <p align="center">
   <strong>EcoLoop AI — Identify it. Collect it. Route it. Recover it.</strong><br/>
