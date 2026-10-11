@@ -86,9 +86,9 @@ Each stage should be recorded and verified appropriately. A collected item must 
 
 See EcoLoop AI in action and explore its features, workflow, and implementation.
 
-##📝 Project Blog
+## 📝 Project Blog
 
-###📖 Read the AWS Builder Blog: "EcoLoop AI — Project Blog" (https://builder.aws.com/content/3KXfDqghLRDMVwepKizRDJRnhRq/ecoloopai)
+### 📖 Read the AWS Builder Blog: "EcoLoop AI — Project Blog" <https://builder.aws.com/content/3KXfDqghLRDMVwepKizRDJRnhRq/ecoloopai/>
 
 Explore the inspiration, technical approach, and development journey behind EcoLoop AI.
 
