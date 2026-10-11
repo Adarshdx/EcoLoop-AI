@@ -1,0 +1,6 @@
+{
+  "name": "EcoLoop AI — Circular Waste Intelligence Platform",
+  "description": "AI-powered waste segregation, municipal collection routing, and circular recycling distribution platform.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
