@@ -420,7 +420,7 @@ Adjust this structure to match the actual repository.
 
 **Team DevX** is working on EcoLoop AI to explore how artificial intelligence and cloud computing can support more connected and transparent waste management.
 
-### Team Leader Adarsh Chaudhary — Project Direction and System Design
+### ⭐Lead Adarsh Chaudhary — Project Direction and System Design
 - Defined the project vision and problem statement.
 - Coordinated responsibilities and development priorities.
 - Guided system workflow and architecture discussions.
