@@ -126,7 +126,6 @@ Screenshots below should be captured from the actual running application and sav
 
 *The proposed cloud architecture supporting EcoLoop AI.*
 
-> **Note:** Add the actual image files to the screenshot directory. GitHub cannot display images that have not been added to the repository.
 
 ---
 
