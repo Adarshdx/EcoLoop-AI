@@ -80,9 +80,9 @@ Each stage should be recorded and verified appropriately. A collected item must 
 
 ---
 
-🎥 Project Demo
+## 🎥 Project Demo
 
-▶️ Watch the Live Project Demo: "EcoLoop AI — YouTube Demo" (https://youtu.be/Agstru_KtRU)
+### ▶️ Watch the Live Project Demo: "EcoLoop AI — YouTube Demo" <https://youtu.be/Agstru_KtRU/>
 
 See EcoLoop AI in action and explore its features, workflow, and implementation.
 
