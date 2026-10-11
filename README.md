@@ -420,20 +420,20 @@ Adjust this structure to match the actual repository.
 
 **Team DevX** is working on EcoLoop AI to explore how artificial intelligence and cloud computing can support more connected and transparent waste management.
 
-### Team Leader — Project Direction and System Design
+### Team Leader Adarsh Chaudhary — Project Direction and System Design
 - Defined the project vision and problem statement.
 - Coordinated responsibilities and development priorities.
 - Guided system workflow and architecture discussions.
 - Aligned the team's efforts with sustainability goals.
 - Coordinated project documentation and presentation.
 
-### Team Member 2 — Frontend and User Experience
+### Vipin kumar — Frontend and User Experience
 - Contributed to the design and implementation of user-facing interfaces.
 - Worked on responsive layouts and application navigation.
 - Helped develop waste identification, pickup, and recycler workflows.
 - Coordinated frontend requirements with backend integration.
 
-### Team Member 3 — Backend, Cloud, and AI Integration
+### Adhyan & Adarsh — Backend, Cloud, and AI Integration
 - Contributed to backend workflow and data-model planning.
 - Helped design API and cloud-service integration.
 - Explored the image-classification workflow.
@@ -446,7 +446,6 @@ Update these descriptions with each member's actual work and add names or profil
 ## 🗺️ Future Roadmap
 
 - [ ] Complete and verify the core pickup workflow.
-- [ ] Add genuine screenshots from the running application.
 - [ ] Configure authentication and backend role authorization.
 - [ ] Validate the AI classifier with representative test data.
 - [ ] Add QR-based batch tracking.
@@ -510,6 +509,11 @@ Add a `LICENSE` file if you intend to publish the project under an open-source l
 ## ⭐ Support EcoLoop AI
 
 If you find this project interesting, star the repository and share feedback to help us improve.
+
+## 🔗 Contact Me
+
+You can contact me via LinkedIn
+<p https://www.linkedin.com/in/adarsh-chaudhary-071053331/p>
 
 <p align="center">
   <strong>EcoLoop AI — Identify it. Collect it. Route it. Recover it.</strong><br/>
