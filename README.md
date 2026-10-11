@@ -80,6 +80,13 @@ Each stage should be recorded and verified appropriately. A collected item must 
 
 ---
 
+🎥 Project Demo
+
+▶️ Watch the Live Project Demo: "EcoLoop AI — YouTube Demo" (https://youtu.be/Agstru_KtRU)
+
+See EcoLoop AI in action and explore its features, workflow, and implementation.
+
+
 ## 🖼️ Application Screenshots
 
 Screenshots below should be captured from the actual running application and saved in `docs/screenshots/`.
