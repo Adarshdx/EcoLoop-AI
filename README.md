@@ -35,6 +35,7 @@ Traditional waste-management workflows face several challenges:
 
 EcoLoop AI addresses these challenges through a unified, technology-driven waste-management workflow.
 
+
 ## 💡 Our Solution
 
 EcoLoop AI brings together waste identification, collection coordination, recycling connectivity, and material traceability.
