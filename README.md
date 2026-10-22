@@ -66,6 +66,7 @@ Waste can be tracked through distinct workflow stages:
 
 Each stage should be recorded and verified appropriately. A collected item must not automatically be treated as successfully recycled.
 
+
 ---
 
 ## ✨ Key Features
