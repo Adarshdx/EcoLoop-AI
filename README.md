@@ -7,6 +7,7 @@
 
 **EcoLoop AI**, developed by **Team DevX**, is an AI-powered sustainability platform designed to connect citizens, waste collectors, and recycling partners. It aims to simplify waste identification, improve collection coordination, and make recyclable materials easier to track throughout their journey.
 
+
 ---
 ## 🖇️ Use it on mobile (Deployed)
 
