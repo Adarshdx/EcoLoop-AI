@@ -1,6 +1,7 @@
 
 
 
+
 # ♻️ EcoLoop AI
 ### AI-Powered Waste Segregation, Collection & Recycling Platform
 
